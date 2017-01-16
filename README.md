@@ -29,8 +29,3 @@ These instructions will get you a copy of the project up and running on your loc
 * Better error handling. For example the resource URL=http://wiprodigital.com/cases/cisco-building-a-global-office returns a 404.
 * Utility methods for handling URL's
 * Project should handle http://www.wiprodigital.com and http://wiprodigital.com
-
-## Authors
-
-* **Vicky** - *Initial work*
-
